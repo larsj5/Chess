@@ -1,3 +1,4 @@
+#test
 import square
 from pieces import *
 from square import *
